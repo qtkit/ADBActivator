@@ -1,5 +1,11 @@
 # QuestToolkit Activator (퀘스트툴킷 액티베이터)
 
+> **[EN] Important: If QuestToolKit's internal ADB activation fails, you can use this app to activate ADB first, and then proceed with QuestToolKit.**
+>
+> **[KR] 중요: 퀘스트툴킷에서 자체적으로 ADB 활성화가 되지 않을 경우, 이 앱을 통해 ADB를 먼저 활성화한 후 퀘스트툴킷의 기능을 정상적으로 이용할 수 있습니다.**
+
+---
+
 ## Description (설명)
 **[EN]** This application is designed to activate Wireless ADB on Quest devices, **regular Android smartphones, and Galaxy XR devices**. It provides essential utilities such as VPN connectivity, an ADB command executor, and automatic APK installation, simplifying the process of setting up and maintaining your Android-based environment.
 
@@ -33,7 +39,7 @@
 ---
 
 ## Requirements (요구 사항)
-*   Meta Quest Device (Quest 2, Quest 3, Quest 3S, Quest Pro)
+*   Meta Quest Device (Quest 2, Quest 3, Quest Pro)
 *   **Galaxy XR Device**
 *   **Regular Android Smartphones (Android 10 or higher recommended)**
 *   PC with Android SDK Platform-Tools installed.
