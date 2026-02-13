@@ -1,0 +1,2 @@
+# ADBActivator
+Android ADB Activator
